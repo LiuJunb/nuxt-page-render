@@ -1,5 +1,5 @@
 <template>
-  <div>Page: cart{{ new Date() }}</div>
+  <div>Page: cart liujun: {{ new Date() }}</div>
 </template>
 
 <script lang="ts" setup>
